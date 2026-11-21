@@ -7,7 +7,7 @@ export const profile = {
   phone: "+91-7620239098",
   email: "bhadarageshubham30@gmail.com",
   resumeUrl:
-    "https://drive.google.com/file/d/14JKjqZ4c6NDDvnWUZ-ZjbYgwf59pg2i-/view?usp=drive_link",
+    "https://drive.google.com/file/d/1fc8ibQRVyNsVwJ8GL2gl62sZj8RGgIGr/view?usp=drive_link",
   links: {
     github: "https://github.com/Shubhamb13",
     linkedin: "https://www.linkedin.com/in/shubham-bhadarage-548708236/",
