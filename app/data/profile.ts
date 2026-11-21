@@ -43,14 +43,14 @@ export const experience = [
     points: [
       "Developed 12+ full-stack features using React.js, Node.js, Express.js, and MongoDB, improving application functionality and user experience.",
       "Integrated and managed 18+ REST APIs with MongoDB, ensuring efficient data handling and reliable frontend-backend communication.",
-      "Resolved 4+ application issues and optimized frontend/backend workflows, improving application performance and development efficiency.",
+      "Built automated communication pipelines and agentic AI workflows using n8n, webhooks, LLM APIs, and the WhatsApp Cloud API, reducing manual operational effort by ~70%.",
     ],
   },
   {
     role: "Trainee Engineer",
     company: "Walstar Pvt. Ltd",
-    location: "Pune, India",
-    period: "Jul 2024 - May 2026",
+    location: "Kolhapur, India",
+    period: "Jul 2024 - Feb 2026",
     current: false,
     points: [
       "Delivered 20+ responsive web interfaces with improved load speed by ~30%, ensuring smooth performance and cross-browser compatibility across major devices.",
@@ -142,6 +142,17 @@ export const skills = [
       "WooCommerce",
       "Site Speed Optimization",
       "Plugin Configuration",
+    ],
+  },
+  {
+    group: "Automation & Integrations",
+    icon: "workflow",
+    items: [
+      "n8n Workflow Automation",
+      "AI Agents",
+      "WhatsApp Cloud API",
+      "Webhooks",
+      " LLM APIs",
     ],
   },
   {

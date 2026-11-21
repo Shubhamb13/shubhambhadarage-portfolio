@@ -361,6 +361,26 @@ export function BookIcon({ className = "h-4 w-4" }: IconProps) {
   );
 }
 
+export function WorkflowIcon({ className = "h-4 w-4" }: IconProps) {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+      className={className}
+    >
+      <rect x="9" y="2" width="6" height="5" rx="1.5" />
+      <rect x="2" y="17" width="6" height="5" rx="1.5" />
+      <rect x="16" y="17" width="6" height="5" rx="1.5" />
+      <path d="M12 7v4M5 17v-2a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v2" />
+    </svg>
+  );
+}
+
 export const skillIcons: Record<string, (props: IconProps) => JSX.Element> = {
   code: CodeIcon,
   layout: LayoutIcon,
@@ -369,4 +389,5 @@ export const skillIcons: Record<string, (props: IconProps) => JSX.Element> = {
   cloud: CloudIcon,
   wrench: WrenchIcon,
   book: BookIcon,
+  workflow: WorkflowIcon,
 };
