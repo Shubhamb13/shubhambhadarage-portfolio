@@ -3,11 +3,11 @@ export const profile = {
   role: "Software Engineer",
   summary:
     "Software Engineer with 2+ years of experience delivering scalable web applications across modern frontend architectures, full-stack environments, and CMS platforms. Proficient in building responsive user interfaces, developing robust REST APIs, and optimizing database workflows using TypeScript, JavaScript (ES6+), and the MERN stack. Adept at performance optimization, reusable component design, and delivering seamless digital solutions from concept to deployment. Available for immediate joining.",
-  location: "Pune, India",
+  location: "Satara, India",
   phone: "+91-7620239098",
   email: "bhadarageshubham30@gmail.com",
   resumeUrl:
-    "https://drive.google.com/file/d/1fc8ibQRVyNsVwJ8GL2gl62sZj8RGgIGr/view?usp=drive_link",
+    "https://drive.google.com/file/d/1lt0OkgaUneCOU6WuqWC21MEk45S1nRte/view?usp=drive_link",
   links: {
     github: "https://github.com/Shubhamb13",
     linkedin: "https://www.linkedin.com/in/shubham-bhadarage-548708236/",
@@ -37,7 +37,7 @@ export const experience = [
   {
     role: "Software Engineer",
     company: "Athang Infotech",
-    location: "Pune, India",
+    location: "Satara, India",
     period: "Jun 2026 - Present",
     current: true,
     points: [
